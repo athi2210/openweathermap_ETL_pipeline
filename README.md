@@ -50,3 +50,26 @@ b)Fillout the form
 
 ![image](https://github.com/user-attachments/assets/6885e5bb-bd56-41d0-9feb-cc1f3f04c05b)
 
+# 6 (Optional) Use pgadmin to read the data
+a) First of all download pgadmin and setup the connection your postgres database (register Server)
+
+b) Create a new database and name it "test"
+
+# 7 Run Airflow DAG
+a) Enable the DAG
+
+b) go to pg admin and open the query tool:
+
+![image](https://github.com/user-attachments/assets/f139a8bf-afef-4c55-8fd6-bb402a9f6abc)
+
+![image](https://github.com/user-attachments/assets/20040c36-28fc-4bac-a4f5-cf7464526939)
+
+# Side Note
+In this Project our Docker Container are setup localy. However, your old data are going to be stored in a volume, which is declared in the Docker-Compose.yaml
+
+## 🧑‍💻 Author
+Athi – My first data engineering project 🤓
+Feel free to give feedback or open a pull request!
+
+
+
