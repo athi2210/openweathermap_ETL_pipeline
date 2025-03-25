@@ -50,7 +50,7 @@ b)Fillout the form
 
 ![image](https://github.com/user-attachments/assets/6885e5bb-bd56-41d0-9feb-cc1f3f04c05b)
 
-# 6 (Optional) Use pgadmin to read the data
+# 6 Connect with pgAdmin
 a) First of all download pgadmin and setup the connection your postgres database (register Server)
 
 b) Create a new database and name it "test"
@@ -58,7 +58,7 @@ b) Create a new database and name it "test"
 # 7 Run Airflow DAG
 a) Enable the DAG
 
-b) go to pg admin and open the query tool:
+b) Go to pg admin and open the query tool:
 
 ![image](https://github.com/user-attachments/assets/f139a8bf-afef-4c55-8fd6-bb402a9f6abc)
 
