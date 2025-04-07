@@ -67,7 +67,7 @@ b) Go to pg admin and open the query tool:
 
 ![image](https://github.com/user-attachments/assets/20040c36-28fc-4bac-a4f5-cf7464526939)
 
-# Use Grafana for visualization
+# 8 Use Grafana for visualization
 a) for this example i used another container where i run by using following Command: docker run -d --name=grafana -p 3000:3000 grafana/grafana
 b) access grafan by typing localhost:3000 in ur browser
 c) login user: admin: password:admin -> grafana will ask you to change ur password
