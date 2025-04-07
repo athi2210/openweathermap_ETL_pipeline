@@ -2,7 +2,8 @@
 ## A beginner-friendly data engineering project that collects and stores daily weather data from various cities around the world.This project uses Apache Airflow, PostgreSQL, Docker, and the OpenWeatherMap API to automate the data pipeline.
 
 ## Architecture
-![image](https://github.com/user-attachments/assets/651b1a9f-a820-4a68-8612-fee2948761a6)
+![image](https://github.com/user-attachments/assets/26fb2593-3141-4708-aea9-3d27866270c0)
+
 
 ## 🔧 Technologies Used
  Apache Airflow – to schedule and orchestrate the daily pipeline
