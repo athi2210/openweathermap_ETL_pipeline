@@ -49,7 +49,7 @@ a)You setup the connection press on Admin -> Connections
 
 b)Fillout the form
 
-![image](https://github.com/user-attachments/assets/004f9558-fe6b-4e4f-bb88-f09dab40af57)
+![image](https://github.com/user-attachments/assets/6885e5bb-bd56-41d0-9feb-cc1f3f04c05b)
 
 
 
